@@ -1,4 +1,4 @@
-### Hi there, I'm Dawood Faisal 👋
+### Hi there, I'm [Dawood Faisal](https://www.dawoodfaisal.tech) 👋
 - 💻‍ I'm a Computer Science Student
 - 👨‍💻 Currently working with JavaScript for web development
 - 🎇 Learning: MERN Stack tech
